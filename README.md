@@ -13,11 +13,13 @@ It provides business leaders and operations managers with a **360-degree view** 
 The dashboard is structured into two distinct views catering to Executive Decision-Making and Operational Risk Management.
 
 ### 📄 Page 1: Executive Overview (Financial & Sales Performance)
-<img width="964" height="549" alt="inventory   funding analytics dashboard page1" src="https://github.com/user-attachments/assets/4cc39c24-6d0b-4531-9218-71c362cf8c14" />
+<img width="3075" height="1763" alt="inventory   funding analytics dashboard page1" src="https://github.com/user-attachments/assets/4950ed32-366e-4888-81fd-3a347e84ea8d" />
+
 
 
 ### 📄 Page 2: Operational Stock & Supplier Analytics
-<img width="965" height="546" alt="stock management   supplier analytics dashboard page2" src="https://github.com/user-attachments/assets/28aa1d6e-667e-4104-ba2f-e162c380fdba" />
+<img width="3075" height="1763" alt="stock management   supplier analytics dashboard page2" src="https://github.com/user-attachments/assets/1e2bd2b0-da35-4482-be4c-8df3f2493f31" />
+
 
 
 ---
